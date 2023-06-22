@@ -6,4 +6,5 @@ I code things in:
  -  Svelte
  
 I also somtimes make games in Unity/Godot, you can view them at [itch.io](https://falconeye76.itch.io/)
+
 Currently I'm learning Rust!
