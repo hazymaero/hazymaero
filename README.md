@@ -1,4 +1,4 @@
-## Hi, I'm @hazymaero
+## Hi, I'm @noxhaze
 
 I code things in:
  - C++
