@@ -8,7 +8,7 @@ I code things in:
 Currently, I'm learing OpenGL in C++
 
 What I Use:
- - Neovim, with NvChad as a base
+ - Neovim
  - Windows terminal
 
 You can view my Neovim config in one of my repos. 
