@@ -5,10 +5,8 @@ I code things in:
  - C#
  -  Svelte
 
-Currently, I'm learing OpenGL in C++
+Currently, I'm learing Vulkan in C++
 
 What I Use:
- - Neovim
- - Windows terminal
-
-You can view my Neovim config in one of my repos. 
+ - [Neovim](https://github.com/noxhaze/neovim-config)
+ - EndeavorOS
